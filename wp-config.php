@@ -14,6 +14,8 @@
  * @package WordPress
  */
 
+define('WP_POST_REVISIONS', FALSE);
+define('EMPTY_TRASH_DAYS', 10 );
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('WP_CACHE', true); //Added by WP-Cache Manager

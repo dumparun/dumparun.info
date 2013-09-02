@@ -269,7 +269,7 @@ body > header {
 }
 .secondary-navigation a:hover {
     color: #fff;
-    background-image: url(images/titlebg.png);
+    background-image: none;
 }
 #navigation select { display: none }
 #navigation ul {
@@ -397,7 +397,7 @@ body > header {
     -webkit-transition: all 0.25s linear;
     -moz-transition: all 0.25s linear;
     transition: all 0.25s linear;
-    background-image: url(images/titlebg.png);
+    background-image: none;
     font-family: 'Monda', sans-serif;
 }
 .readMore a:hover {
@@ -511,7 +511,7 @@ article header {
     font-size: 12px;
     margin-top: -30px;
     position: relative;
-    background-image: url(images/titlebg.png);
+    background-image: none;
 }
 .single_post .post-date-ribbon { margin-top: -32px }
 .corner {
@@ -790,7 +790,7 @@ nav #searchform fieldset {
     -webkit-transition: all 0.25s linear;
     -moz-transition: all 0.25s linear;
     transition: all 0.25s linear;
-    background-image: url(images/titlebg.png);
+    background-image: none;
     width: 29.6%;
 }
 .sbutton {
@@ -1336,7 +1336,7 @@ ol.commentlist { margin-left: 0 }
     text-decoration: none;
     padding: 10px 14px;
     border: 1px solid #ccc;
-    background-image: url(images/titlebg.png);
+    background-image: none;
 }
 .pagination a, .pagination2 {
     border: 1px solid #ccc;
@@ -1370,7 +1370,7 @@ ol.commentlist { margin-left: 0 }
 }
 .nav-previous a:hover, .nav-next a:hover {
     color: #fff !important;
-    background-image: url(images/titlebg.png);
+    background-image: none;
 }
 .comment_text_area { overflow: hidden }
 /*-----------------------------------------------
